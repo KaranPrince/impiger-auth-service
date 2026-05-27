@@ -1,0 +1,15 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+
+metadata:
+  name: impiger-auth-service
+  description: Authentication and authorization microservice for Impiger platform
+
+  annotations:
+    github.com/project-slug: KaranPrince/impiger-auth-service
+
+spec:
+  type: service
+  lifecycle: production
+  owner: group:default/platform-engineering
+  system: impiger-platform
