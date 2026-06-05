@@ -9,6 +9,7 @@ metadata:
     github.com/project-slug: KaranPrince/impiger-auth-service
     jenkins.io/job-full-name: impiger-auth-service
     backstage.io/kubernetes-id: impiger-auth-service
+    backstage.io/techdocs-ref: dir:.
 
 spec:
   type: service
