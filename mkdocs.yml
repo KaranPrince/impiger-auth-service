@@ -1,0 +1,10 @@
+site_name: Impiger Auth Service
+
+nav:
+  - Home: index.md
+  - Architecture: architecture.md
+  - Deployment: deployment.md
+  - Troubleshooting: troubleshooting.md
+
+plugins:
+  - techdocs-core
